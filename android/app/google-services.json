@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "70611456559",
+    "project_id": "qnews-5739b",
+    "storage_bucket": "qnews-5739b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70611456559:android:a10a4ba7081e0ac973acda",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70611456559-f73gd6l8nvkj8uk5lth16ujroihooao9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_4",
+            "certificate_hash": "150a745298294ac317e889cab833b60abd5c89b2"
+          }
+        },
+        {
+          "client_id": "70611456559-qjvut22i1kk8589oki1sklhs8c0o2t65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJ0jhr4MLWQHxHGBnVW2rcl_m6UDyYTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70611456559-qjvut22i1kk8589oki1sklhs8c0o2t65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
